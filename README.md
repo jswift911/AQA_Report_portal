@@ -98,7 +98,7 @@ docker-compose -p reportportal up -d --force-recreate
 ![Annotation 2023-06-13 140136](https://github.com/jswift911/AQA_Report_portal/assets/46243492/100a41bc-ffac-4d72-9df3-de2985fbf3c2)
 
 
-9. Запустите любой тест из проекта для проверки того, что проект связался с report portal успешно 
+9. Запустите любой тест из проекта для проверки того, что проект связался с Report Portal успешно 
  - в моем случае это <b>shouldRegisterNewDate()</b>
 
 ![Annotation 2023-06-13 140229](https://github.com/jswift911/AQA_Report_portal/assets/46243492/37703dc2-40a8-43ed-b0cb-869955f78240)
