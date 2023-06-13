@@ -103,7 +103,7 @@ docker-compose -p reportportal up -d --force-recreate
 
 ![Annotation 2023-06-13 140229](https://github.com/jswift911/AQA_Report_portal/assets/46243492/37703dc2-40a8-43ed-b0cb-869955f78240)
 
-10. Проверьте, что проект действительно связался проверив запущеные тесты в разделе `Запуски`
+10. Убедитесь, что проект действительно связался проверив запущеные тесты в разделе `Запуски`
 
 ![Annotation 2023-06-13 140113](https://github.com/jswift911/AQA_Report_portal/assets/46243492/57bf9b1d-5c96-4532-9868-0c61b37f9b5c)
 
