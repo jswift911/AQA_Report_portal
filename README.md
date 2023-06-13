@@ -95,7 +95,8 @@ docker-compose -p reportportal up -d --force-recreate
 
 8. Зайдите в настройки профиля и скопируйте Ваши персональные настройки к себе в проект, в файл `reportportal.properties`
 
-![Annotation 2023-06-13 140136](https://github.com/jswift911/AQA_Report_portal/assets/46243492/4b4d2d12-753a-426c-8333-126a02674400)
+![Annotation 2023-06-13 140136](https://github.com/jswift911/AQA_Report_portal/assets/46243492/100a41bc-ffac-4d72-9df3-de2985fbf3c2)
+
 
 9. Запустите любой тест из проекта для проверки того, что проект связался с report portal успешно 
  - в моем случае это <b>shouldRegisterNewDate()</b>
